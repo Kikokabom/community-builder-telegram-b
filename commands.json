@@ -1,0 +1,86 @@
+[
+  {
+    "name": "admin",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "announce",
+    "file": "src/commands/announce.js"
+  },
+  {
+    "name": "announce_targets",
+    "file": "src/commands/announce_targets.js"
+  },
+  {
+    "name": "audit",
+    "file": "src/commands/audit.js"
+  },
+  {
+    "name": "faq",
+    "file": "src/commands/faq.js"
+  },
+  {
+    "name": "faq_add",
+    "file": "src/commands/faq_add.js"
+  },
+  {
+    "name": "faq_del",
+    "file": "src/commands/faq_del.js"
+  },
+  {
+    "name": "faq_edit",
+    "file": "src/commands/faq_edit.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "resetwarns",
+    "file": "src/commands/warn.js"
+  },
+  {
+    "name": "rules",
+    "file": "src/commands/rules.js"
+  },
+  {
+    "name": "setrules",
+    "file": "src/commands/setrules.js"
+  },
+  {
+    "name": "setwelcome",
+    "file": "src/commands/setwelcome.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "suggest",
+    "file": "src/commands/suggest.js"
+  },
+  {
+    "name": "suggest_set",
+    "file": "src/commands/suggest_set.js"
+  },
+  {
+    "name": "suggestions",
+    "file": "src/commands/suggestions.js"
+  },
+  {
+    "name": "warn",
+    "file": "src/commands/warn.js"
+  },
+  {
+    "name": "warns",
+    "file": "src/commands/warn.js"
+  },
+  {
+    "name": "welcome_off",
+    "file": "src/commands/welcome_off.js"
+  },
+  {
+    "name": "welcome_on",
+    "file": "src/commands/welcome_on.js"
+  }
+]
